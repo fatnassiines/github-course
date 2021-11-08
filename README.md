@@ -1,3 +1,3 @@
 # github-course
 for studying github
-##Project notes
+## Project notes
